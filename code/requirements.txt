@@ -1,0 +1,10 @@
+# quant-practice 核心依赖（Mac 本地项目用）
+# 数据库走 pgserver 内嵌 PostgreSQL 16，不需要单独安装 Postgres/Homebrew
+pgserver
+psycopg[binary]
+pandas
+numpy
+scipy
+yfinance
+# vectorbt 仅 first_backtest.py 用到，体积大；不需要第一遍回测时可删掉这一行
+vectorbt
