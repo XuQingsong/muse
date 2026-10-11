@@ -1,0 +1,741 @@
+{
+ "signal_asof": "2026-10-09",
+ "spy": {
+  "date": "2026-10-09",
+  "close": 778.57,
+  "vs_ma200_pct": 7.6956381309259525,
+  "ret1d_pct": 0.599537425865404,
+  "ret5d_pct": 1.1602827295878582
+ },
+ "plan": [
+  {
+   "ticker": "MU",
+   "tier": "进攻",
+   "rank": 75.3,
+   "books": {
+    "公司质量": 71.4,
+    "成长与预期": 95.8,
+    "估值": 53.3,
+    "入场时机": 74.0
+   },
+   "certainty": "高",
+   "fund_score": 78,
+   "price": 1029.0,
+   "dev50_pct": 5.4,
+   "rev_growth": 200.23471782834986,
+   "rev_accel_pp": 240.82006255006786,
+   "first_frac_of_cap": 0.5,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 40000,
+   "target_full_pos_usd": 80000,
+   "state_date": "2026-06-25",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "CRM",
+   "tier": "进攻",
+   "rank": 75.0,
+   "books": {
+    "公司质量": 90.3,
+    "成长与预期": 70.0,
+    "估值": 67.4,
+    "入场时机": 73.4
+   },
+   "certainty": "低",
+   "fund_score": 73,
+   "price": 229.13,
+   "dev50_pct": 1.8,
+   "rev_growth": 13.893085261456095,
+   "rev_accel_pp": -2.460624971640211,
+   "first_frac_of_cap": 0.264,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.2,
+   "buy_usd": 21120,
+   "target_full_pos_usd": 80000,
+   "state_date": "2026-08-27",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "AVGO",
+   "tier": "进攻",
+   "rank": 70.9,
+   "books": {
+    "公司质量": 86.0,
+    "成长与预期": 94.1,
+    "估值": 38.5,
+    "入场时机": 52.8
+   },
+   "certainty": "高",
+   "fund_score": 87,
+   "price": 361.54,
+   "dev50_pct": -2.8,
+   "rev_growth": 56.88999441230016,
+   "rev_accel_pp": 48.47442845133136,
+   "first_frac_of_cap": 0.5,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 40000,
+   "target_full_pos_usd": 80000,
+   "state_date": "2026-09-10",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "MRVL",
+   "tier": "进攻",
+   "rank": 59.9,
+   "books": {
+    "公司质量": 75.3,
+    "成长与预期": 70.8,
+    "估值": 21.3,
+    "入场时机": 72.6
+   },
+   "certainty": "低",
+   "fund_score": 65,
+   "price": 275.28,
+   "dev50_pct": 16.4,
+   "rev_growth": 58.03907479641415,
+   "rev_accel_pp": -14.943759890000095,
+   "first_frac_of_cap": 0.22,
+   "half_due_to_dev50": true,
+   "insider_boost": 1.0,
+   "buy_usd": 8800,
+   "target_full_pos_usd": 80000,
+   "state_date": "2026-08-28",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "GOOGL",
+   "tier": "普通",
+   "rank": 75.5,
+   "books": {
+    "公司质量": 80.8,
+    "成长与预期": 85.9,
+    "估值": 61.6,
+    "入场时机": 68.3
+   },
+   "certainty": "高",
+   "fund_score": 68,
+   "price": 351.66,
+   "dev50_pct": 1.6,
+   "rev_growth": 24.632689807233056,
+   "rev_accel_pp": 8.258835783627891,
+   "first_frac_of_cap": 0.6,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 72000,
+   "target_full_pos_usd": 120000,
+   "state_date": "2026-07-23",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "META",
+   "tier": "普通",
+   "rank": 73.4,
+   "books": {
+    "公司质量": 87.3,
+    "成长与预期": 78.8,
+    "估值": 57.4,
+    "入场时机": 66.6
+   },
+   "certainty": "高",
+   "fund_score": 75,
+   "price": 718.67,
+   "dev50_pct": 12.3,
+   "rev_growth": 36.25661968452745,
+   "rev_accel_pp": 4.955399132097128,
+   "first_frac_of_cap": 0.6,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 72000,
+   "target_full_pos_usd": 120000,
+   "state_date": "2026-07-30",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "NVDA",
+   "tier": "普通",
+   "rank": 73.2,
+   "books": {
+    "公司质量": 89.8,
+    "成长与预期": 76.3,
+    "估值": 51.1,
+    "入场时机": 75.4
+   },
+   "certainty": "中",
+   "fund_score": 72,
+   "price": 229.28,
+   "dev50_pct": 3.2,
+   "rev_growth": 108.22980447836245,
+   "rev_accel_pp": -14.264291690230422,
+   "first_frac_of_cap": 0.48,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 57600,
+   "target_full_pos_usd": 120000,
+   "state_date": "2026-08-26",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "UNH",
+   "tier": "防守",
+   "rank": 69.1,
+   "books": {
+    "公司质量": 81.3,
+    "成长与预期": 56.0,
+    "估值": 74.2,
+    "入场时机": 68.6
+   },
+   "certainty": "低",
+   "fund_score": 58,
+   "price": 379.3,
+   "dev50_pct": -2.5,
+   "rev_growth": 9.652704096849751,
+   "rev_accel_pp": -8.570039027001176,
+   "first_frac_of_cap": 0.42,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 50400,
+   "target_full_pos_usd": 120000,
+   "state_date": "2026-08-10",
+   "signal_date": "2026-10-09"
+  },
+  {
+   "ticker": "CAT",
+   "tier": "普通",
+   "rank": 59.4,
+   "books": {
+    "公司质量": 60.2,
+    "成长与预期": 69.0,
+    "估值": 46.3,
+    "入场时机": 58.9
+   },
+   "certainty": "低",
+   "fund_score": 65,
+   "price": 800.47,
+   "dev50_pct": -2.6,
+   "rev_growth": 18.356324933876046,
+   "rev_accel_pp": 1.7654463648806065,
+   "first_frac_of_cap": 0.32,
+   "half_due_to_dev50": false,
+   "insider_boost": 1.0,
+   "buy_usd": 38400,
+   "target_full_pos_usd": 120000,
+   "state_date": "2026-08-05",
+   "signal_date": "2026-10-09"
+  }
+ ],
+ "skipped": [],
+ "all": {
+  "AAPL": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 71.5,
+   "books": {
+    "公司质量": 90.9,
+    "成长与预期": 78.3,
+    "估值": 38.8,
+    "入场时机": 78.0
+   },
+   "certainty": "中",
+   "fund_score": 81,
+   "price": 336.64,
+   "dev50_pct": 4.4,
+   "state_date": "2026-07-31"
+  },
+  "MSFT": {
+   "tier": null,
+   "entry_pass": false,
+   "overheat": false,
+   "rank": null,
+   "books": {
+    "公司质量": null,
+    "成长与预期": null,
+    "估值": null,
+    "入场时机": 74.8
+   },
+   "certainty": "中",
+   "fund_score": 66,
+   "price": 535.07,
+   "dev50_pct": 6.9,
+   "state_date": "2026-07-29"
+  },
+  "NVDA": {
+   "tier": "普通",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 73.2,
+   "books": {
+    "公司质量": 89.8,
+    "成长与预期": 76.3,
+    "估值": 51.1,
+    "入场时机": 75.4
+   },
+   "certainty": "中",
+   "fund_score": 72,
+   "price": 229.28,
+   "dev50_pct": 3.2,
+   "state_date": "2026-08-26"
+  },
+  "META": {
+   "tier": "普通",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 73.4,
+   "books": {
+    "公司质量": 87.3,
+    "成长与预期": 78.8,
+    "估值": 57.4,
+    "入场时机": 66.6
+   },
+   "certainty": "高",
+   "fund_score": 75,
+   "price": 718.67,
+   "dev50_pct": 12.3,
+   "state_date": "2026-07-30"
+  },
+  "AMZN": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 67.6,
+   "books": {
+    "公司质量": 47.3,
+    "成长与预期": 87.8,
+    "估值": 57.5,
+    "入场时机": 73.4
+   },
+   "certainty": "高",
+   "fund_score": 53,
+   "price": 262.43,
+   "dev50_pct": 1.3,
+   "state_date": "2026-07-31"
+  },
+  "AVGO": {
+   "tier": "进攻",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 70.9,
+   "books": {
+    "公司质量": 86.0,
+    "成长与预期": 94.1,
+    "估值": 38.5,
+    "入场时机": 52.8
+   },
+   "certainty": "高",
+   "fund_score": 87,
+   "price": 361.54,
+   "dev50_pct": -2.8,
+   "state_date": "2026-09-10"
+  },
+  "AMD": {
+   "tier": "进攻",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 62.6,
+   "books": {
+    "公司质量": 74.5,
+    "成长与预期": 86.9,
+    "估值": 11.8,
+    "入场时机": 72.8
+   },
+   "certainty": "高",
+   "fund_score": 85,
+   "price": 608.1,
+   "dev50_pct": 15.0,
+   "state_date": "2026-08-05"
+  },
+  "MRVL": {
+   "tier": "进攻",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 59.9,
+   "books": {
+    "公司质量": 75.3,
+    "成长与预期": 70.8,
+    "估值": 21.3,
+    "入场时机": 72.6
+   },
+   "certainty": "低",
+   "fund_score": 65,
+   "price": 275.28,
+   "dev50_pct": 16.4,
+   "state_date": "2026-08-28"
+  },
+  "PLTR": {
+   "tier": "进攻",
+   "entry_pass": true,
+   "overheat": true,
+   "rank": 65.2,
+   "books": {
+    "公司质量": 90.6,
+    "成长与预期": 81.3,
+    "估值": 17.3,
+    "入场时机": 67.7
+   },
+   "certainty": "高",
+   "fund_score": 80,
+   "price": 209.05,
+   "dev50_pct": 18.1,
+   "state_date": "2026-08-04"
+  },
+  "CRM": {
+   "tier": "进攻",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 75.0,
+   "books": {
+    "公司质量": 90.3,
+    "成长与预期": 70.0,
+    "估值": 67.4,
+    "入场时机": 73.4
+   },
+   "certainty": "低",
+   "fund_score": 73,
+   "price": 229.13,
+   "dev50_pct": 1.8,
+   "state_date": "2026-08-27"
+  },
+  "NOW": {
+   "tier": "进攻",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 61.2,
+   "books": {
+    "公司质量": 88.8,
+    "成长与预期": 46.9,
+    "估值": 47.7,
+    "入场时机": 67.4
+   },
+   "certainty": "低",
+   "fund_score": 65,
+   "price": 140.86,
+   "dev50_pct": 6.5,
+   "state_date": "2026-07-23"
+  },
+  "ORCL": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 69.6,
+   "books": {
+    "公司质量": 76.0,
+    "成长与预期": 88.6,
+    "估值": 58.3,
+    "入场时机": 41.4
+   },
+   "certainty": "高",
+   "fund_score": 68,
+   "price": 141.4,
+   "dev50_pct": -3.0,
+   "state_date": "2026-09-11"
+  },
+  "NFLX": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 64.3,
+   "books": {
+    "公司质量": 90.7,
+    "成长与预期": 47.2,
+    "估值": 81.2,
+    "入场时机": 34.3
+   },
+   "certainty": "低",
+   "fund_score": 64,
+   "price": 70.3,
+   "dev50_pct": -6.7,
+   "state_date": "2026-07-17"
+  },
+  "TSLA": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 39.3,
+   "books": {
+    "公司质量": 42.2,
+    "成长与预期": 56.1,
+    "估值": 10.1,
+    "入场时机": 45.4
+   },
+   "certainty": "低",
+   "fund_score": 78,
+   "price": 382.7,
+   "dev50_pct": 7.9,
+   "state_date": "2026-07-23"
+  },
+  "COST": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 59.1,
+   "books": {
+    "公司质量": 77.9,
+    "成长与预期": 63.0,
+    "估值": 39.6,
+    "入场时机": 53.1
+   },
+   "certainty": "低",
+   "fund_score": 72,
+   "price": 946.92,
+   "dev50_pct": 1.7,
+   "state_date": "2026-10-07"
+  },
+  "WMT": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 54.7,
+   "books": {
+    "公司质量": 53.7,
+    "成长与预期": 72.2,
+    "估值": 38.6,
+    "入场时机": 46.9
+   },
+   "certainty": "中",
+   "fund_score": 43,
+   "price": 111.35,
+   "dev50_pct": 2.6,
+   "state_date": "2026-08-28"
+  },
+  "HD": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 66.5,
+   "books": {
+    "公司质量": 80.8,
+    "成长与预期": 67.1,
+    "估值": 73.8,
+    "入场时机": 34.3
+   },
+   "certainty": "低",
+   "fund_score": 79,
+   "price": 290.74,
+   "dev50_pct": -8.5,
+   "state_date": "2026-08-25"
+  },
+  "UNH": {
+   "tier": "防守",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 69.1,
+   "books": {
+    "公司质量": 81.3,
+    "成长与预期": 56.0,
+    "估值": 74.2,
+    "入场时机": 68.6
+   },
+   "certainty": "低",
+   "fund_score": 58,
+   "price": 379.3,
+   "dev50_pct": -2.5,
+   "state_date": "2026-08-10"
+  },
+  "LLY": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 71.5,
+   "books": {
+    "公司质量": 71.5,
+    "成长与预期": 91.6,
+    "估值": 46.0,
+    "入场时机": 70.8
+   },
+   "certainty": "高",
+   "fund_score": 53,
+   "price": 1179.27,
+   "dev50_pct": 0.5,
+   "state_date": "2026-08-05"
+  },
+  "JNJ": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 63.5,
+   "books": {
+    "公司质量": 81.8,
+    "成长与预期": 59.7,
+    "估值": 42.4,
+    "入场时机": 74.7
+   },
+   "certainty": "低",
+   "fund_score": 64,
+   "price": 261.44,
+   "dev50_pct": -1.5,
+   "state_date": "2026-07-23"
+  },
+  "JPM": {
+   "tier": null,
+   "entry_pass": false,
+   "overheat": false,
+   "rank": null,
+   "books": {
+    "公司质量": null,
+    "成长与预期": null,
+    "估值": null,
+    "入场时机": 67.4
+   },
+   "certainty": "低",
+   "fund_score": 43,
+   "price": 332.99,
+   "dev50_pct": -4.9,
+   "state_date": "2026-08-06"
+  },
+  "V": {
+   "tier": null,
+   "entry_pass": false,
+   "overheat": false,
+   "rank": null,
+   "books": {
+    "公司质量": null,
+    "成长与预期": null,
+    "估值": null,
+    "入场时机": 75.9
+   },
+   "certainty": "低",
+   "fund_score": 64,
+   "price": 385.45,
+   "dev50_pct": 4.3,
+   "state_date": "2026-04-29"
+  },
+  "MA": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 74.7,
+   "books": {
+    "公司质量": 92.7,
+    "成长与预期": 84.9,
+    "估值": 43.6,
+    "入场时机": 74.3
+   },
+   "certainty": "高",
+   "fund_score": 77,
+   "price": 589.14,
+   "dev50_pct": 3.0,
+   "state_date": "2026-07-30"
+  },
+  "XOM": {
+   "tier": null,
+   "entry_pass": false,
+   "overheat": false,
+   "rank": null,
+   "books": {
+    "公司质量": null,
+    "成长与预期": null,
+    "估值": null,
+    "入场时机": 72.8
+   },
+   "certainty": "低",
+   "fund_score": 39,
+   "price": 168.94,
+   "dev50_pct": 4.6,
+   "state_date": "2026-08-03"
+  },
+  "CVX": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 61.7,
+   "books": {
+    "公司质量": 49.3,
+    "成长与预期": 66.3,
+    "估值": 57.8,
+    "入场时机": 76.6
+   },
+   "certainty": "低",
+   "fund_score": 53,
+   "price": 211.98,
+   "dev50_pct": 3.8,
+   "state_date": "2026-08-06"
+  },
+  "CAT": {
+   "tier": "普通",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 59.4,
+   "books": {
+    "公司质量": 60.2,
+    "成长与预期": 69.0,
+    "估值": 46.3,
+    "入场时机": 58.9
+   },
+   "certainty": "低",
+   "fund_score": 65,
+   "price": 800.47,
+   "dev50_pct": -2.6,
+   "state_date": "2026-08-05"
+  },
+  "GE": {
+   "tier": "防守",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 66.7,
+   "books": {
+    "公司质量": 75.2,
+    "成长与预期": 82.4,
+    "估值": 45.0,
+    "入场时机": 56.6
+   },
+   "certainty": "高",
+   "fund_score": 65,
+   "price": 308.2,
+   "dev50_pct": -8.5,
+   "state_date": "2026-07-16"
+  },
+  "ADBE": {
+   "tier": "普通",
+   "entry_pass": false,
+   "overheat": false,
+   "rank": 74.4,
+   "books": {
+    "公司质量": 93.9,
+    "成长与预期": 65.1,
+    "估值": 83.1,
+    "入场时机": 51.5
+   },
+   "certainty": "低",
+   "fund_score": 72,
+   "price": 242.27,
+   "dev50_pct": -6.1,
+   "state_date": "2026-09-22"
+  },
+  "MU": {
+   "tier": "进攻",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 75.3,
+   "books": {
+    "公司质量": 71.4,
+    "成长与预期": 95.8,
+    "估值": 53.3,
+    "入场时机": 74.0
+   },
+   "certainty": "高",
+   "fund_score": 78,
+   "price": 1029.0,
+   "dev50_pct": 5.4,
+   "state_date": "2026-06-25"
+  },
+  "GOOGL": {
+   "tier": "普通",
+   "entry_pass": true,
+   "overheat": false,
+   "rank": 75.5,
+   "books": {
+    "公司质量": 80.8,
+    "成长与预期": 85.9,
+    "估值": 61.6,
+    "入场时机": 68.3
+   },
+   "certainty": "高",
+   "fund_score": 68,
+   "price": 351.66,
+   "dev50_pct": 1.6,
+   "state_date": "2026-07-23"
+  }
+ }
+}
